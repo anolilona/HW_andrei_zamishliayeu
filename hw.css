@@ -1,0 +1,11 @@
+p {
+text-indent: 20px;   
+}
+    body{
+        margin: 50px;
+        background-color: #f2f8ee;
+    }
+
+div {
+    border-bottom: 1px solid black  
+}

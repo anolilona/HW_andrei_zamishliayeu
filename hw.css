@@ -1,11 +1,12 @@
-p {
-text-indent: 20px;   
+
+body{
+    margin: 50px;
+    background-color: #f2f8ee;
+    font-family: arial;
+        
 }
-    body{
-        margin: 50px;
-        background-color: #f2f8ee;
-    }
 
 div {
+    margin: auto;
     border-bottom: 1px solid black  
 }

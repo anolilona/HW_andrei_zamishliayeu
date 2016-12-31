@@ -1,0 +1,13 @@
+
+body{
+    margin: 50px;
+    background-color: #f2f8ee;
+    font-family: arial;
+        
+}
+
+div {
+    width: 600px;
+    margin: auto;
+    border-bottom: 1px solid black  
+}

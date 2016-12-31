@@ -1,0 +1,20 @@
+
+body{
+    margin: 50px;
+    background-color: #f2f8ee;
+    font-family: arial;     
+}
+div {
+    width: 600px;
+    margin: auto;
+    border-bottom: 1px solid #c5c4c0;
+}
+p{
+    padding-left: 50px;
+}
+#about {
+    padding-left: 0;
+}
+figure {
+    text-align: center;
+}
